@@ -12,3 +12,9 @@ Species: Lions Mane
 Substrate: mezquite and soy hulls
 Stage: Fruiting chamber
 Notes: Inoculated 02/04/2026
+
+Date: 2026-04-04
+Species: Pleurotus eryngii
+Substrate: Wheat straw
+Stage: Pinning
+Notes: First pins showing after 12 days!
