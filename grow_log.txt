@@ -6,3 +6,9 @@ Species: Lions Mane
 Substrate: mezquite and soy hulls
 Stage: Incubation
 Notes: Inoculated 02/04/2026
+
+Date: 2026-07-04
+Species: Lions Mane
+Substrate: mezquite and soy hulls
+Stage: Fruiting chamber
+Notes: Inoculated 02/04/2026
